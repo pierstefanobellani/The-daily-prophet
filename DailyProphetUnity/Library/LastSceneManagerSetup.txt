@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/NEWPAPER455.unity
+  isLoaded: 1
+  isActive: 1
