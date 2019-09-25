@@ -3,6 +3,7 @@ An AR chromakey based newspaper. Require Unity, Vuforia and a smarthpone visor f
 
 Inside the ARPrototype folder, there are 2 .apk file as well as the marker I've used.
 This will allow you to test my prototype before opening Unity.
+You can test it by using a cardboard visor or just handling your smartphone. This is only a visual difference.
 Feel free to use my marker or to create your own according to your needs.
 
 Add your Vuforia license and target images.
