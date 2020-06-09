@@ -16,3 +16,5 @@ The two cameras have 2 different functions:
   
   LAST UPDATE: January 2019.
   UNITY VERSION: 2018.2
+
+More on https://pierstefanobellani.com
